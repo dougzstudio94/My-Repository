@@ -1,0 +1,10 @@
+<img src="Image test.gif" usemap="#Image test" alt="" style="border-style:none" />
+
+
+
+<map id="Image test" name="Image test">
+<area shape="rect" alt="" coords="52,96,352,301" href="http://www.studio-94-photography.com/studio-misc/" title="" />
+<area shape="rect" alt="studio-94.com" coords="49,400,351,600" href="http://www.studio-94-photography.com/" title="studio-94.com" />
+<area shape="rect" alt="Staff Page" coords="50,700,350,901" href="http://www.studio-94-photography.com/studio-misc/studio-staff/" title="Staff Page" />
+<area shape="default" nohref="nohref" alt="" />
+</map>
